@@ -1,0 +1,7 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "javascript.experimental.updateImportsOnPaste": true,
+    "javascript.format.semicolons": "insert"
+}
